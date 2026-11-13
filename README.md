@@ -2,7 +2,7 @@
 
 폰으로 찍은 영상 하나로 책상 주변을 3D 가우시안 스플랫으로 만들고, 웹에서 돌려 볼 수 있게 올렸습니다.
 
-**보기** ✏️ `https://<아이디>.github.io/<저장소이름>/`
+**보기** https://benjy89a.github.io/my-open-space/
 
 ![뷰어 화면](shots/viewer.png)
 
